@@ -36,7 +36,7 @@ USER: Alexa, tell me another random Peter Drucker quote.
 ALEXA:
 
 USER: Alexa, what is today’s business news?
-ALEXA ...
+ALEXA:
 
 USER: Alexa, stop.
 

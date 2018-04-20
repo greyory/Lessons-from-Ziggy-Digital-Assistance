@@ -1,0 +1,245 @@
+USER: Alexa, bring up the ambient noise app.
+ALEXA:
+
+USER: Play "Wind in Meadow"
+
+USER: Alexa, could you please play the David Bowie song, "Ricochet?"
+ALEXA:
+
+USER: Alexa, can you please order some ground coffee?
+ALEXA:
+
+USER: Yes
+ALEXA:
+
+USER: Yes
+
+USER: Alexa, sample the Brian Eno album Music for Airports.
+ALEXA:
+
+<!--PICK ONE-->
+USER: Alexa, what is a brand?
+<!--OR-->
+Alexa, what is a logo?
+<!--OR-->
+Alexa, what is a mascot?
+ALEXA:
+
+USER: Alexa, who is Peter Drucker?
+ALEXA:
+
+USER: Alexa, can you give me a random quote by Peter Drucker?
+ALEXA:
+
+<!--OPTIONAL-->
+USER: Alexa, tell me another random Peter Drucker quote.
+ALEXA:
+
+USER: Alexa, what is today’s business news?
+ALEXA ...
+
+USER: Alexa, stop.
+
+<!--PICK ONE-->
+USER: Alexa, what is corporate malfeasance?
+<!--OR-->
+Alexa, what is political accountability?
+<!--OR-->
+Alexa, what is a ludonarrative dissonance?
+
+
+USER: Alexa, pull up Harold Budd.
+ALEXA:
+<!--OPTIONAL-->
+Alexa, next song.
+
+USER: Alexa, what is the Blue Ocean Strategy?
+ALEXA:
+
+USER: Alexa, what is the Lost Decade?
+ALEXA:
+
+USER:
+Last level
+Swerving and spinning speed
+Watch the turn
+Revolves from one to another
+
+The peeling page
+Whirling effortlessly into a beyondish
+A severe echoing chaos
+An educated worth
+
+It’s ceasless – it’s mean
+It’s ever evolving more
+Moored in the supposed and fleeting honest path
+Garnished in jello
+Baptized in fear
+Incorporate exodus
+
+Racecars racing
+Swift kickers kicking
+I’m allowed to be stupid
+But that doesn’t make it any better
+
+I see you there
+I’ll meet you there tomorrow
+I’ll be there
+Ranting and raving
+Thrashing, rising
+
+Tossing
+Turning
+Training
+Overserving several
+Willingness and compliance
+
+For what it’s worth, I’m no better
+
+Turns sour
+Turns bitter
+Turns over in its sleep
+Taking turns
+
+Queen takes night
+Bishop takes queen
+Complacency takes form
+Change takes forever
+
+Adequate to excellent
+Excellent to superior
+Convenience to convenance
+Cardinal
+
+Industry standard
+Malfeasance
+It whirs, it hums, it whistles
+It sings its same, tired plastic soul
+Weathered and whimpering
+A proud, decaying extravagance
+Dervish delivers
+Dripping
+Driving
+Dreaming
+Delving drivel
+
+Caressing keyed keycard
+Carousing
+
+Cool, cooled, cooling 
+ffects of warming
+Waiting rooms
+Cloud storage
+
+Colonoscopy awaits in excellent exuberance
+Of vast corporate economies
+Entering intrinsic anomaly sets
+
+Micro centers
+Stolling
+Storing
+Severing
+
+Cold compact storage
+Bought and sold
+Adage
+Brackish
+Backlit and wired
+Whirring, humming, hissing
+
+This fits just right
+Into another
+And another
+You would believe what we have in store
+Things fitting into other things
+
+An espionage of wait
+Find out
+You’ll hang that in your office one day
+
+Back itch
+and stackage
+Horses and hackish
+Hors d'oeuvres-drawn carriage
+
+Subordinate textures
+Ringing and writhing
+An anxious care of superlative frenzy
+
+Assign, design, and resign
+
+Consumate constituency
+Prolific profligacy
+Fast and reckless
+Wreckless and brackish
+
+Correlative risk management
+Financial dependency of sorts
+
+The unholy alliance is an agreement between designer and user
+This is all real
+
+Sun’s eyes
+Self-help
+Cartoon mascots of office life
+
+<H5>
+I browse image search for the poster illustration, assuming that it has been
+mass-produced to a degree of over-saturation. I don’t find my poster, but I find
+various similar illustrations. In some, Ziggy is looking at the viewer. In some, Ziggy
+is fully dressed. In some, the sun is airbrushed rather than watercolored.
+</H5>
+
+Zed and empty like the workplace coffee mug.
+Ziggy hastens to laugh.
+
+<H5>
+If Dagwood represented the foolish speed of the post-war streamlined industry
+and golden age advertising standards, surely Ziggy represented the existential
+dread of the new cubicle office.
+</H5>
+
+I’m OK.
+You’re OK.
+Are you OK?
+
+Office and depression go together like peas and carrots
+Like coffee and more coffee
+
+The intersection of corporation and creativity
+Desperate times call for desperate pleasures
+The philosophy of business
+
+Alexa, life goes on. Only this time, without me.
+ALEXA:
+
+<!--PICK ONE-->
+USER: Alexa, what is a jester?
+<!--OR-->
+Alexa, what is a fool?
+<!--OR-->
+Alexa, what is a sad clown?
+ALEXA:
+
+<!--PICK ONE-->
+USER: Alexa, what is a puzzle?
+<!--OR-->
+Alexa, what is chess?
+<!--OR-->
+Alexa, what is solitaire?
+ALEXA:
+
+USER: Alexa, can you read to me from What Color is Your Parachute?
+ALEXA:
+
+USER: Alexa, pull up "Ricochet" by Anohni.
+ALEXA:
+<!--USER MAY CONTINUE SINGING AFTER SONG COMPLETES-->
+
+ALEXA: Alexa, open the ambient noise app.
+ALEXA:
+USER: Play "Brown noise"
+ALEXA:
+
+USER:
+Ziggy is the sun, Ziggy is the egg, Ziggy is the police of police.

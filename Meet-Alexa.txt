@@ -238,7 +238,7 @@ ALEXA:
 
 ALEXA: Alexa, open the ambient noise app.
 ALEXA:
-USER: Play "Brown noise"
+USER: Play "Brown noise."
 ALEXA:
 
 USER:

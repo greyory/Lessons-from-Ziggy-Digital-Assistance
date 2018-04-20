@@ -1,2 +1,2 @@
 # Lessons-from-Ziggy-Digital-Assistance-
-Lessons from Ziggy: "Digital Assistance" is an interactive "verbal command-line" artwork utilizing an Amazon Alexa.
+Lessons from Ziggy: "Digital Assistance" is a series of interactive "verbal command-line" scripts utilizing an Amazon Alexa operating system.

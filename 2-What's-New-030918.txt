@@ -39,18 +39,24 @@ ALEXA:
 ALEXA:
 
 <!--TO BE READ QUICKLY-->
-USER: March 2, 2018:
-"Alexa, how many days until the Astros Opening Day?" "Alexa, give me an Oscars movie quiz."
-"Alexa, what's the shortest word in the English language?" "Alexa, how do I play music everywhere?"
-"Alexa, play the Mellow '70s Gold playlist from Amazon Music." "Alexa, I'm bored."
+USER: March 2, 2018.
+"Alexa, how many days until the Astros Opening Day?"
+"Alexa, give me an Oscars movie quiz."
+"Alexa, what's the shortest word in the English language?"
+"Alexa, how do I play music everywhere?"
+"Alexa, play the Mellow '70s Gold playlist from Amazon Music."
+"Alexa, I'm bored."
 "Alexa, when are the Oscars?"
 "Alexa, what's my commute?"
 "Alexa, play sounds of the jungle."
 "Alexa, add cheese to my shopping list."
-"Alexa, who are the guests on The Tonight Show?" "Alexa, what is Drop In?"
-"Alexa, when did the last Taylor Swift album come out?" "Alexa, who is going to win an Oscar?"
+"Alexa, who are the guests on The Tonight Show?"
+"Alexa, what is Drop In?"
+"Alexa, when did the last Taylor Swift album come out?"
+"Alexa, who is going to win an Oscar?"
 "Alexa, when is the next solar eclipse?"
 "Alexa, tell me a robot joke.”
+ALEXA:
 ALEXA:
 ALEXA:
 ALEXA:
@@ -96,8 +102,8 @@ The future product from Alpha to Beta to Ziggy.
 The unchecked perpetuation of gentry is made visible.
 
 Ziggy is the icon of meta-narrative.
-Ziggy: a do-nothing, elitist, centrist of disembodied hand.
-Ziggy: the paper pusher of corporatism.
+Ziggy. A do-nothing, elitist, centrist of disembodied hand.
+Ziggy. A the paper pusher of corporatism.
 
 The past, present, and future of Moore’s law aligns in Ziggy.
 

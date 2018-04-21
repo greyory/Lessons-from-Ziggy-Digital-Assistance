@@ -1,5 +1,5 @@
 USER: If you order an Amazon Alexa, Amazon will begin sending you weekly updates titled:
-“What’s new with Alexa?” In these transmissions, you are asked to try new tricks that you
+“What's new with Alexa?” In these transmissions, you are asked to try new tricks that you
 can perform with your Alexa.
 ALEXA:
 ALEXA:
@@ -85,9 +85,9 @@ ALEXA:
 ALEXA:
 
 USER:
-You’re told a job is security.
-You’re told each career is a lifetime of growth and achievement.
-You’re told you, too, can live many lives, under new employment.
+You're told a job is security.
+You're told each career is a lifetime of growth and achievement.
+You're told you, too, can live many lives, under new employment.
 
 Enveloped corporate technologies.
 Cysco systems for the masses.

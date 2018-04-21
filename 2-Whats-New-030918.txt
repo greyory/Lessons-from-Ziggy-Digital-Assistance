@@ -6,7 +6,7 @@ ALEXA:
 ALEXA:
 
 <!--TO BE READ QUICKLY-->
-USER: March 9, 2018.
+USER: March 9th, 2018.
 "Alexa, open The Magic Door."
 "Alexa, play the last song I was listening to."
 "Alexa, set a reminder to adjust my clocks forward for daylight savings."
@@ -39,7 +39,7 @@ ALEXA:
 ALEXA:
 
 <!--TO BE READ QUICKLY-->
-USER: March 2, 2018.
+USER: March 2nd, 2018.
 "Alexa, how many days until the Astros Opening Day?"
 "Alexa, give me an Oscars movie quiz."
 "Alexa, what's the shortest word in the English language?"
